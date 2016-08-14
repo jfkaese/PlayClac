@@ -1,0 +1,14 @@
+/* GLOBAL SPECIFIC STYLES */
+body {
+  background-color: #f2f2f2;
+}
+
+.jumbotron-custom {
+  background-color: #fff;
+  text-align: center;
+}
+
+/* FOOTER SPECIFIC STYLES */
+.footer-custom {
+  color: #fff;
+}
